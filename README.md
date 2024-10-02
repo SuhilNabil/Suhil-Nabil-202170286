@@ -2,7 +2,7 @@ The names:
 •	Suhil Nabil Abud Mohammed [202170286]
 •	Ibraheem galeeb Sharf Al_hamady [202170162]
 •	Emad Mahub Al_Kadsy [202170195]
-.
+
 # AI Chatbot with Emoji
 
 This project is an interactive chatbot application that uses both OpenAI's GPT model and a database of pre-defined responses. It is built with Python, leveraging the tkinter library for a graphical user interface (GUI), and it allows users to chat with the bot using emojis. The chatbot supports saving and retrieving responses from a database and can be extended with additional responses via CSV files.
